@@ -10,4 +10,8 @@ Go to http://engadget.com/all/ and copy paste the code in [index.js](https://git
 ![screen shot 2015-12-03 at 12 44 19 pm](https://cloud.githubusercontent.com/assets/1416436/11568690/98c95c6e-99bb-11e5-8b62-3cf0b6251b60.png)
 
 
-If there is enough interest, I might make this into a chrome extension. Feel free to contribute :)
+
+### Automatically loading for Chrome
+
+Install the [Custom Javascript for Web](https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija) Chrome extension and copy paste the code into it as follows:
+![screen shot 2015-12-03 at 3 03 38 pm](https://cloud.githubusercontent.com/assets/1416436/11572408/1d927ea4-99cf-11e5-9e9b-01f930a4a6dc.png)
